@@ -1,0 +1,20 @@
+{
+  "version": 3,
+  "artifactType": {
+    "type": "LINKED_RESOURCES_BINARY_FORMAT",
+    "kind": "Directory"
+  },
+  "applicationId": "com.example.memgallery.unopt",
+  "variantName": "unoptimizedDebug",
+  "elements": [
+    {
+      "type": "SINGLE",
+      "filters": [],
+      "attributes": [],
+      "versionCode": 1,
+      "versionName": "1.0-unopt",
+      "outputFile": "linked-resources-binary-format-unoptimizedDebug.ap_"
+    }
+  ],
+  "elementType": "File"
+}

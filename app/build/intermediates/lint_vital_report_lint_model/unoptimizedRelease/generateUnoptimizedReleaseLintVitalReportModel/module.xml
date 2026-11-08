@@ -1,0 +1,20 @@
+<lint-module
+    format="1"
+    dir="D:\Ky 2 nam 4\test\MemGallery\app"
+    name=":app"
+    type="APP"
+    maven="MemGallery:app:unspecified"
+    agpVersion="9.2.1"
+    buildFolder="build"
+    bootClassPath="C:\Users\KinhLup\AppData\Local\Android\Sdk\platforms\android-36.1\android.jar;C:\Users\KinhLup\AppData\Local\Android\Sdk\build-tools\36.0.0\core-lambda-stubs.jar"
+    javaSourceLevel="11"
+    compileTarget="android-36.1"
+    neverShrinking="true"
+    highlightGradualR8Api="false">
+  <lintOptions
+      abortOnError="true"
+      absolutePaths="true"
+      checkReleaseBuilds="true"
+      explainIssues="true"/>
+  <variant name="unoptimizedRelease"/>
+</lint-module>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- app_name được định nghĩa theo từng flavor (resValue trong app/build.gradle.kts) -->
+    <string name="btn_autoscroll">Auto-scroll</string>
+    <string name="btn_reset">Reset</string>
+    <string name="btn_gc">GC</string>
+</resources>

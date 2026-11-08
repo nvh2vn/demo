@@ -1,0 +1,11 @@
+com.example.memgallery.app-optimized-0 D:\Ky 2 nam 4\test\MemGallery\app\build\generated\res\pngs\optimized\release
+com.example.memgallery.app-optimized-1 D:\Ky 2 nam 4\test\MemGallery\app\build\generated\res\resValues\optimized\release
+com.example.memgallery.app-updated_navigation_xml-2 D:\Ky 2 nam 4\test\MemGallery\app\build\generated\updated_navigation_xml\optimizedRelease
+com.example.memgallery.app-packageOptimizedReleaseResources-3 D:\Ky 2 nam 4\test\MemGallery\app\build\intermediates\incremental\optimizedRelease\packageOptimizedReleaseResources\merged.dir
+com.example.memgallery.app-packageOptimizedReleaseResources-4 D:\Ky 2 nam 4\test\MemGallery\app\build\intermediates\incremental\optimizedRelease\packageOptimizedReleaseResources\stripped.dir
+com.example.memgallery.app-optimizedRelease-5 D:\Ky 2 nam 4\test\MemGallery\app\build\intermediates\merged_res\optimizedRelease\mergeOptimizedReleaseResources
+com.example.memgallery.app-main-6 D:\Ky 2 nam 4\test\MemGallery\app\src\main\res
+com.example.memgallery.app-optimized-7 D:\Ky 2 nam 4\test\MemGallery\app\src\optimized\res
+com.example.memgallery.app-optimizedRelease-8 D:\Ky 2 nam 4\test\MemGallery\app\src\optimizedRelease\res
+com.example.memgallery.app-release-9 D:\Ky 2 nam 4\test\MemGallery\app\src\release\res
+gradleHome-0 C:\Users\KinhLup\.gradle

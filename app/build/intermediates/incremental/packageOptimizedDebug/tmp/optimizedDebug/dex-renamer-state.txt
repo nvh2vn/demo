@@ -1,0 +1,22 @@
+#Mon Nov 09 02:25:24 ICT 2026
+path.4=3/classes.dex
+path.3=12/classes.dex
+path.2=10/classes.dex
+path.1=0/classes.dex
+path.6=classes.dex
+path.5=9/classes.dex
+path.0=classes.dex
+base.4=D\:\\Ky 2 nam 4\\test\\MemGallery\\app\\build\\intermediates\\dex\\optimizedDebug\\mergeProjectDexOptimizedDebug\\3\\classes.dex
+base.3=D\:\\Ky 2 nam 4\\test\\MemGallery\\app\\build\\intermediates\\dex\\optimizedDebug\\mergeProjectDexOptimizedDebug\\12\\classes.dex
+base.2=D\:\\Ky 2 nam 4\\test\\MemGallery\\app\\build\\intermediates\\dex\\optimizedDebug\\mergeProjectDexOptimizedDebug\\10\\classes.dex
+base.1=D\:\\Ky 2 nam 4\\test\\MemGallery\\app\\build\\intermediates\\dex\\optimizedDebug\\mergeProjectDexOptimizedDebug\\0\\classes.dex
+base.0=D\:\\Ky 2 nam 4\\test\\MemGallery\\app\\build\\intermediates\\dex\\optimizedDebug\\mergeExtDexOptimizedDebug\\classes.dex
+renamed.3=classes4.dex
+renamed.2=classes3.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+renamed.6=classes7.dex
+renamed.5=classes6.dex
+base.6=D\:\\Ky 2 nam 4\\test\\MemGallery\\app\\build\\intermediates\\global_synthetics_dex\\optimizedDebug\\generateOptimizedDebugGlobalSynthetics\\classes.dex
+renamed.4=classes5.dex
+base.5=D\:\\Ky 2 nam 4\\test\\MemGallery\\app\\build\\intermediates\\dex\\optimizedDebug\\mergeProjectDexOptimizedDebug\\9\\classes.dex

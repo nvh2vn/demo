@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="loader_job" type="id"/>
+    <string name="app_name" translatable="false">Gallery OPT</string>
+    <string name="btn_autoscroll">Auto-scroll</string>
+    <string name="btn_gc">GC</string>
+    <string name="btn_reset">Reset</string>
+    <style name="Theme.MemGallery" parent="Theme.AppCompat.DayNight.NoActionBar"/>
+</resources>

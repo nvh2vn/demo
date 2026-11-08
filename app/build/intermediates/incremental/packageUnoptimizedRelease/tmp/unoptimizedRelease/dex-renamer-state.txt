@@ -1,0 +1,4 @@
+#Mon Nov 09 02:26:26 ICT 2026
+base.0=D\:\\Ky 2 nam 4\\test\\MemGallery\\app\\build\\intermediates\\dex\\unoptimizedRelease\\mergeDexUnoptimizedRelease\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

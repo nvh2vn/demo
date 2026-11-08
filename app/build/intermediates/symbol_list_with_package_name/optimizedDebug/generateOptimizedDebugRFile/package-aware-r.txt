@@ -1,0 +1,18 @@
+com.example.memgallery
+drawable ic_launcher
+id btnAutoScroll
+id btnGc
+id btnReset
+id detailImage
+id detailStatus
+id galleryContainer
+id loader_job
+id overlay
+id root
+layout activity_detail
+layout activity_main
+string app_name
+string btn_autoscroll
+string btn_gc
+string btn_reset
+style Theme_MemGallery

@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "com.example.memgallery.app-unoptimizedDebug-32:/layout_activity_main.xml.flat",
+        "source": "com.example.memgallery.app-main-34:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.memgallery.app-unoptimizedDebug-32:/layout_activity_detail.xml.flat",
+        "source": "com.example.memgallery.app-main-34:/layout/activity_detail.xml"
+    },
+    {
+        "merged": "com.example.memgallery.app-unoptimizedDebug-32:/drawable_ic_launcher.xml.flat",
+        "source": "com.example.memgallery.app-unoptimized-35:/drawable/ic_launcher.xml"
+    }
+]

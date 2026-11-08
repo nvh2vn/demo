@@ -1,0 +1,37 @@
+<variant
+    name="optimizedRelease"
+    package="com.example.memgallery"
+    minSdkVersion="26"
+    targetSdkVersion="36.0"
+    mergedManifest="build\intermediates\merged_manifest\optimizedRelease\processOptimizedReleaseMainManifest\AndroidManifest.xml"
+    proguardFiles="build\intermediates\default_proguard_files\global\proguard-android-optimize.txt-9.2.1"
+    partialResultsDir="build\intermediates\lint_vital_partial_results\optimizedRelease\lintVitalAnalyzeOptimizedRelease\out"
+    desugaredMethodsFiles="C:\Users\KinhLup\.gradle\caches\9.4.1\transforms\2fdb8ccae4bcb1fc412990f5b6b73e6c\transformed\D8BackportedDesugaredMethods.txt">
+  <buildFeatures/>
+  <sourceProviders>
+    <sourceProvider
+        manifests="src\main\AndroidManifest.xml"
+        javaDirectories="src\main\java;src\optimized\java;src\release\java;src\optimizedRelease\java;src\main\kotlin;src\optimized\kotlin;src\release\kotlin;src\optimizedRelease\kotlin"
+        resDirectories="src\main\res;src\optimized\res;src\release\res;src\optimizedRelease\res"
+        assetsDirectories="src\main\assets;src\optimized\assets;src\release\assets;src\optimizedRelease\assets"
+        keepRulesDirectories="src\main\keepRules;src\optimized\keepRules;src\release\keepRules;src\optimizedRelease\keepRules"/>
+  </sourceProviders>
+  <testSourceProviders>
+  </testSourceProviders>
+  <testFixturesSourceProviders>
+  </testFixturesSourceProviders>
+  <resValues>
+    <resValue
+        type="string"
+        name="app_name"
+        value="Gallery OPT" />
+  </resValues>
+  <artifact
+      classOutputs="build\intermediates\javac\optimizedRelease\compileOptimizedReleaseJavaWithJavac\classes;build\intermediates\built_in_kotlinc\optimizedRelease\compileOptimizedReleaseKotlin\classes;build\intermediates\compile_r_class_jar\optimizedRelease\generateOptimizedReleaseRFile\R.jar"
+      type="MAIN"
+      applicationId="com.example.memgallery.opt"
+      generatedSourceFolders="build\generated\ap_generated_sources\optimizedRelease\out;build\generated\source\buildConfig\optimized\release"
+      generatedResourceFolders="build\generated\res\resValues\optimized\release"
+      desugaredMethodsFiles="C:\Users\KinhLup\.gradle\caches\9.4.1\transforms\2fdb8ccae4bcb1fc412990f5b6b73e6c\transformed\D8BackportedDesugaredMethods.txt">
+  </artifact>
+</variant>

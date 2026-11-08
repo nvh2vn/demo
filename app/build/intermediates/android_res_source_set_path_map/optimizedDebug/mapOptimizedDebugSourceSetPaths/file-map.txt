@@ -1,0 +1,11 @@
+com.example.memgallery.app-optimized-0 D:\Ky 2 nam 4\test\MemGallery\app\build\generated\res\pngs\optimized\debug
+com.example.memgallery.app-optimized-1 D:\Ky 2 nam 4\test\MemGallery\app\build\generated\res\resValues\optimized\debug
+com.example.memgallery.app-updated_navigation_xml-2 D:\Ky 2 nam 4\test\MemGallery\app\build\generated\updated_navigation_xml\optimizedDebug
+com.example.memgallery.app-packageOptimizedDebugResources-3 D:\Ky 2 nam 4\test\MemGallery\app\build\intermediates\incremental\optimizedDebug\packageOptimizedDebugResources\merged.dir
+com.example.memgallery.app-packageOptimizedDebugResources-4 D:\Ky 2 nam 4\test\MemGallery\app\build\intermediates\incremental\optimizedDebug\packageOptimizedDebugResources\stripped.dir
+com.example.memgallery.app-optimizedDebug-5 D:\Ky 2 nam 4\test\MemGallery\app\build\intermediates\merged_res\optimizedDebug\mergeOptimizedDebugResources
+com.example.memgallery.app-debug-6 D:\Ky 2 nam 4\test\MemGallery\app\src\debug\res
+com.example.memgallery.app-main-7 D:\Ky 2 nam 4\test\MemGallery\app\src\main\res
+com.example.memgallery.app-optimized-8 D:\Ky 2 nam 4\test\MemGallery\app\src\optimized\res
+com.example.memgallery.app-optimizedDebug-9 D:\Ky 2 nam 4\test\MemGallery\app\src\optimizedDebug\res
+gradleHome-0 C:\Users\KinhLup\.gradle

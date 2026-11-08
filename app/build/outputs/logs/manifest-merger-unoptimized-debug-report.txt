@@ -1,0 +1,430 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Ky 2 nam 4\test\MemGallery\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from D:\Ky 2 nam 4\test\MemGallery\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from D:\Ky 2 nam 4\test\MemGallery\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from D:\Ky 2 nam 4\test\MemGallery\app\src\main\AndroidManifest.xml:2:1-25:12
+MERGED from [com.squareup.leakcanary:leakcanary-android:2.14] C:\Users\KinhLup\.gradle\caches\9.4.1\transforms\72dd0bd44c0fe50ecc388788bbde8fe9\transformed\leakcanary-android-2.14\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat-resources:1.7.1] C:\Users\KinhLup\.gradle\caches\9.4.1\transforms\e1a5a6ac66691c2d33ef30052a427351\transformed\appcompat-resources-1.7.1\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.appcompat:appcompat:1.7.1] C:\Users\KinhLup\.gradle\caches\9.4.1\transforms\7915b73752899ab9d0940749a06dfffd\transformed\appcompat-1.7.1\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.recyclerview:recyclerview:1.4.0] C:\Users\KinhLup\.gradle\caches\9.4.1\transforms\e2fef7d3370e19f133edbdf20f138091\transformed\recyclerview-1.4.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.fragment:fragment:1.5.4] C:\Users\KinhLup\.gradle\caches\9.4.1\transforms\bcec33f4a7229edbb1f4ea090aad9478\transformed\fragment-1.5.4\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.8.0] C:\Users\KinhLup\.gradle\caches\9.4.1\transforms\464615777e5f0bc4ea6eeab2a860ce29\transformed\activity-1.8.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\KinhLup\.gradle\caches\9.4.1\transforms\759c9f507f629ee11d84aff567a68420\transformed\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] C:\Users\KinhLup\.gradle\caches\9.4.1\transforms\72c4fa73e705b3937873e6eb1d7b6cb7\transformed\emoji2-views-helper-1.3.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\KinhLup\.gradle\caches\9.4.1\transforms\80d5302ea8c6e39d8b71c71cd0ab4d6c\transformed\emoji2-1.3.0\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\KinhLup\.gradle\caches\9.4.1\transforms\6a758271b96395c799b84fb74ae795c1\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\KinhLup\.gradle\caches\9.4.1\transforms\9d4b4195ce60c3190942092e77857ee7\transformed\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\KinhLup\.gradle\caches\9.4.1\transforms\5897c5a031f0f4043d6f4f518228ff7b\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\KinhLup\.gradle\caches\9.4.1\transforms\7ba2e7d8e23cf23d4d45d601ca03eaad\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\KinhLup\.gradle\caches\9.4.1\transforms\1e0ae1aade8b4888526e47315cf23ee3\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.18.0] C:\Users\KinhLup\.gradle\caches\9.4.1\transforms\32f9400ec25edf544c9e7216b74df9a6\transformed\core-1.18.0\AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] C:\Users\KinhLup\.gradle\caches\9.4.1\transforms\12d382a9995686a4154dfb7936ef5b47\transformed\customview-poolingcontainer-1.0.0\AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.9.4] C:\Users\KinhLup\.gradle\caches\9.4.1\transforms\1b047b72754ea5a4ba8df25383a6fe68\transformed\lifecycle-livedata-core-ktx-2.9.4\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.9.4] C:\Users\KinhLup\.gradle\caches\9.4.1\transforms\ca2072b9f0b89bc8e62c8992657ed1fa\transformed\lifecycle-viewmodel-2.9.4\AndroidManifest.xml:2:1-5:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.9.4] C:\Users\KinhLup\.gradle\caches\9.4.1\transforms\8121a9fa710a1ff1c610285e40130ce2\transformed\lifecycle-viewmodel-release\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate-android:1.3.1] C:\Users\KinhLup\.gradle\caches\9.4.1\transforms\593431d805f8aa9ef19041bde555acb7\transformed\savedstate-release\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.9.4] C:\Users\KinhLup\.gradle\caches\9.4.1\transforms\d1b0870947ca687cc8219ca6aeb848a7\transformed\lifecycle-runtime-release\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.9.4] C:\Users\KinhLup\.gradle\caches\9.4.1\transforms\0708b8f65cfa81c0fef441e9731bd0c7\transformed\lifecycle-livedata-2.9.4\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.9.4] C:\Users\KinhLup\.gradle\caches\9.4.1\transforms\9f077a1ec3cd02c0bfeffa51e1028ad0\transformed\lifecycle-process-2.9.4\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.9.4] C:\Users\KinhLup\.gradle\caches\9.4.1\transforms\ce54782341b6274c28c21ac48ed22edb\transformed\lifecycle-livedata-core-2.9.4\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.9.4] C:\Users\KinhLup\.gradle\caches\9.4.1\transforms\db77564f8d88b8027e376a97c494b57a\transformed\lifecycle-runtime-ktx\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate-android:2.9.4] C:\Users\KinhLup\.gradle\caches\9.4.1\transforms\bf92e9befa74d6a166621200115c882c\transformed\lifecycle-viewmodel-savedstate-release\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-ktx:1.18.0] C:\Users\KinhLup\.gradle\caches\9.4.1\transforms\c3d0df0bd6445b4c5dffae557812f061\transformed\core-ktx-1.18.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.squareup.leakcanary:leakcanary-android-core:2.14] C:\Users\KinhLup\.gradle\caches\9.4.1\transforms\50f730933fc0767c5730d3dbbe1aed31\transformed\leakcanary-android-core-2.14\AndroidManifest.xml:17:1-105:12
+MERGED from [com.squareup.leakcanary:leakcanary-object-watcher-android:2.14] C:\Users\KinhLup\.gradle\caches\9.4.1\transforms\21774679274e789f8143704fa842de9d\transformed\leakcanary-object-watcher-android-2.14\AndroidManifest.xml:2:1-15:12
+MERGED from [com.squareup.leakcanary:plumber-android:2.14] C:\Users\KinhLup\.gradle\caches\9.4.1\transforms\38be53ebf3a98f08c6338efba2178600\transformed\plumber-android-2.14\AndroidManifest.xml:2:1-15:12
+MERGED from [com.squareup.leakcanary:leakcanary-object-watcher-android-androidx:2.14] C:\Users\KinhLup\.gradle\caches\9.4.1\transforms\c12b0cc4e6d47840647887021868e729\transformed\leakcanary-object-watcher-android-androidx-2.14\AndroidManifest.xml:2:1-7:12
+MERGED from [com.squareup.leakcanary:leakcanary-object-watcher-android-support-fragments:2.14] C:\Users\KinhLup\.gradle\caches\9.4.1\transforms\657a42b49003b4cc3f84a9c3e0ac82fe\transformed\leakcanary-object-watcher-android-support-fragments-2.14\AndroidManifest.xml:2:1-7:12
+MERGED from [com.squareup.leakcanary:leakcanary-object-watcher-android-core:2.14] C:\Users\KinhLup\.gradle\caches\9.4.1\transforms\08646af6c2e48d4843f06b99837c071f\transformed\leakcanary-object-watcher-android-core-2.14\AndroidManifest.xml:2:1-7:12
+MERGED from [com.squareup.leakcanary:plumber-android-core:2.14] C:\Users\KinhLup\.gradle\caches\9.4.1\transforms\3a680ac5fcbe95689ed2895e8796c73d\transformed\plumber-android-core-2.14\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] C:\Users\KinhLup\.gradle\caches\9.4.1\transforms\e745fcb8f1382ceb4b0511a59bde5f04\transformed\annotation-experimental-1.4.1\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.core:core-viewtree:1.0.0] C:\Users\KinhLup\.gradle\caches\9.4.1\transforms\60cb0b781b0a531b93bc464ac25fdead\transformed\core-viewtree-1.0.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\KinhLup\.gradle\caches\9.4.1\transforms\677ddbe25f912cd4acb4e0a5c6d278d6\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [com.squareup.leakcanary:leakcanary-android-utils:2.14] C:\Users\KinhLup\.gradle\caches\9.4.1\transforms\dc3d16da837f8a168272133a8cee5526\transformed\leakcanary-android-utils-2.14\AndroidManifest.xml:2:1-7:12
+MERGED from [com.squareup.curtains:curtains:1.2.4] C:\Users\KinhLup\.gradle\caches\9.4.1\transforms\8cd400bf0fbf062ecd7f997f22d19f20\transformed\curtains-1.2.4\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\KinhLup\.gradle\caches\9.4.1\transforms\366ea0e306c41983ad330cf914d955f3\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\KinhLup\.gradle\caches\9.4.1\transforms\4f17dd4eb1e2b2eda9d8755a59e6e5ed\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\KinhLup\.gradle\caches\9.4.1\transforms\074cd11752f17c88b9c3ad1f2cb19dcc\transformed\profileinstaller-1.4.0\AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\KinhLup\.gradle\caches\9.4.1\transforms\cdd8dcb0bbc9a2d58fb2619cd6b2fa4a\transformed\startup-runtime-1.1.1\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.2.0] C:\Users\KinhLup\.gradle\caches\9.4.1\transforms\4ec46576f54a8caa25300c87776a3608\transformed\tracing-1.2.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\KinhLup\.gradle\caches\9.4.1\transforms\028a020048db2fd2a4a4aeeb27d8223e\transformed\core-runtime-2.2.0\AndroidManifest.xml:17:1-22:12
+	package
+		INJECTED from D:\Ky 2 nam 4\test\MemGallery\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\Ky 2 nam 4\test\MemGallery\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\Ky 2 nam 4\test\MemGallery\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Ky 2 nam 4\test\MemGallery\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from D:\Ky 2 nam 4\test\MemGallery\app\src\main\AndroidManifest.xml:4:5-23:19
+INJECTED from D:\Ky 2 nam 4\test\MemGallery\app\src\main\AndroidManifest.xml:4:5-23:19
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\KinhLup\.gradle\caches\9.4.1\transforms\80d5302ea8c6e39d8b71c71cd0ab4d6c\transformed\emoji2-1.3.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\KinhLup\.gradle\caches\9.4.1\transforms\80d5302ea8c6e39d8b71c71cd0ab4d6c\transformed\emoji2-1.3.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.core:core:1.18.0] C:\Users\KinhLup\.gradle\caches\9.4.1\transforms\32f9400ec25edf544c9e7216b74df9a6\transformed\core-1.18.0\AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.18.0] C:\Users\KinhLup\.gradle\caches\9.4.1\transforms\32f9400ec25edf544c9e7216b74df9a6\transformed\core-1.18.0\AndroidManifest.xml:28:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.9.4] C:\Users\KinhLup\.gradle\caches\9.4.1\transforms\9f077a1ec3cd02c0bfeffa51e1028ad0\transformed\lifecycle-process-2.9.4\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.9.4] C:\Users\KinhLup\.gradle\caches\9.4.1\transforms\9f077a1ec3cd02c0bfeffa51e1028ad0\transformed\lifecycle-process-2.9.4\AndroidManifest.xml:23:5-33:19
+MERGED from [com.squareup.leakcanary:leakcanary-android-core:2.14] C:\Users\KinhLup\.gradle\caches\9.4.1\transforms\50f730933fc0767c5730d3dbbe1aed31\transformed\leakcanary-android-core-2.14\AndroidManifest.xml:31:5-103:19
+MERGED from [com.squareup.leakcanary:leakcanary-android-core:2.14] C:\Users\KinhLup\.gradle\caches\9.4.1\transforms\50f730933fc0767c5730d3dbbe1aed31\transformed\leakcanary-android-core-2.14\AndroidManifest.xml:31:5-103:19
+MERGED from [com.squareup.leakcanary:leakcanary-object-watcher-android:2.14] C:\Users\KinhLup\.gradle\caches\9.4.1\transforms\21774679274e789f8143704fa842de9d\transformed\leakcanary-object-watcher-android-2.14\AndroidManifest.xml:7:5-13:19
+MERGED from [com.squareup.leakcanary:leakcanary-object-watcher-android:2.14] C:\Users\KinhLup\.gradle\caches\9.4.1\transforms\21774679274e789f8143704fa842de9d\transformed\leakcanary-object-watcher-android-2.14\AndroidManifest.xml:7:5-13:19
+MERGED from [com.squareup.leakcanary:plumber-android:2.14] C:\Users\KinhLup\.gradle\caches\9.4.1\transforms\38be53ebf3a98f08c6338efba2178600\transformed\plumber-android-2.14\AndroidManifest.xml:7:5-13:19
+MERGED from [com.squareup.leakcanary:plumber-android:2.14] C:\Users\KinhLup\.gradle\caches\9.4.1\transforms\38be53ebf3a98f08c6338efba2178600\transformed\plumber-android-2.14\AndroidManifest.xml:7:5-13:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\KinhLup\.gradle\caches\9.4.1\transforms\677ddbe25f912cd4acb4e0a5c6d278d6\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\KinhLup\.gradle\caches\9.4.1\transforms\677ddbe25f912cd4acb4e0a5c6d278d6\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\KinhLup\.gradle\caches\9.4.1\transforms\074cd11752f17c88b9c3ad1f2cb19dcc\transformed\profileinstaller-1.4.0\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\KinhLup\.gradle\caches\9.4.1\transforms\074cd11752f17c88b9c3ad1f2cb19dcc\transformed\profileinstaller-1.4.0\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\KinhLup\.gradle\caches\9.4.1\transforms\cdd8dcb0bbc9a2d58fb2619cd6b2fa4a\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\KinhLup\.gradle\caches\9.4.1\transforms\cdd8dcb0bbc9a2d58fb2619cd6b2fa4a\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+	android:extractNativeLibs
+		INJECTED from D:\Ky 2 nam 4\test\MemGallery\app\src\main\AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.18.0] C:\Users\KinhLup\.gradle\caches\9.4.1\transforms\32f9400ec25edf544c9e7216b74df9a6\transformed\core-1.18.0\AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from D:\Ky 2 nam 4\test\MemGallery\app\src\main\AndroidManifest.xml:8:9-35
+	android:label
+		ADDED from D:\Ky 2 nam 4\test\MemGallery\app\src\main\AndroidManifest.xml:7:9-41
+	android:icon
+		ADDED from D:\Ky 2 nam 4\test\MemGallery\app\src\main\AndroidManifest.xml:6:9-45
+	android:allowBackup
+		ADDED from D:\Ky 2 nam 4\test\MemGallery\app\src\main\AndroidManifest.xml:5:9-36
+	android:theme
+		ADDED from D:\Ky 2 nam 4\test\MemGallery\app\src\main\AndroidManifest.xml:9:9-48
+activity#com.example.memgallery.MainActivity
+ADDED from D:\Ky 2 nam 4\test\MemGallery\app\src\main\AndroidManifest.xml:11:9-18:20
+	android:exported
+		ADDED from D:\Ky 2 nam 4\test\MemGallery\app\src\main\AndroidManifest.xml:13:13-36
+	android:name
+		ADDED from D:\Ky 2 nam 4\test\MemGallery\app\src\main\AndroidManifest.xml:12:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\Ky 2 nam 4\test\MemGallery\app\src\main\AndroidManifest.xml:14:13-17:29
+action#android.intent.action.MAIN
+ADDED from D:\Ky 2 nam 4\test\MemGallery\app\src\main\AndroidManifest.xml:15:17-69
+	android:name
+		ADDED from D:\Ky 2 nam 4\test\MemGallery\app\src\main\AndroidManifest.xml:15:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Ky 2 nam 4\test\MemGallery\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from D:\Ky 2 nam 4\test\MemGallery\app\src\main\AndroidManifest.xml:16:27-74
+activity#com.example.memgallery.DetailActivity
+ADDED from D:\Ky 2 nam 4\test\MemGallery\app\src\main\AndroidManifest.xml:20:9-22:40
+	android:configChanges
+		ADDED from D:\Ky 2 nam 4\test\MemGallery\app\src\main\AndroidManifest.xml:22:13-37
+	android:name
+		ADDED from D:\Ky 2 nam 4\test\MemGallery\app\src\main\AndroidManifest.xml:21:13-43
+uses-sdk
+INJECTED from D:\Ky 2 nam 4\test\MemGallery\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\Ky 2 nam 4\test\MemGallery\app\src\main\AndroidManifest.xml
+INJECTED from D:\Ky 2 nam 4\test\MemGallery\app\src\main\AndroidManifest.xml
+MERGED from [com.squareup.leakcanary:leakcanary-android:2.14] C:\Users\KinhLup\.gradle\caches\9.4.1\transforms\72dd0bd44c0fe50ecc388788bbde8fe9\transformed\leakcanary-android-2.14\AndroidManifest.xml:20:5-44
+MERGED from [com.squareup.leakcanary:leakcanary-android:2.14] C:\Users\KinhLup\.gradle\caches\9.4.1\transforms\72dd0bd44c0fe50ecc388788bbde8fe9\transformed\leakcanary-android-2.14\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.7.1] C:\Users\KinhLup\.gradle\caches\9.4.1\transforms\e1a5a6ac66691c2d33ef30052a427351\transformed\appcompat-resources-1.7.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.7.1] C:\Users\KinhLup\.gradle\caches\9.4.1\transforms\e1a5a6ac66691c2d33ef30052a427351\transformed\appcompat-resources-1.7.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat:1.7.1] C:\Users\KinhLup\.gradle\caches\9.4.1\transforms\7915b73752899ab9d0940749a06dfffd\transformed\appcompat-1.7.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat:1.7.1] C:\Users\KinhLup\.gradle\caches\9.4.1\transforms\7915b73752899ab9d0940749a06dfffd\transformed\appcompat-1.7.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.4.0] C:\Users\KinhLup\.gradle\caches\9.4.1\transforms\e2fef7d3370e19f133edbdf20f138091\transformed\recyclerview-1.4.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.4.0] C:\Users\KinhLup\.gradle\caches\9.4.1\transforms\e2fef7d3370e19f133edbdf20f138091\transformed\recyclerview-1.4.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.fragment:fragment:1.5.4] C:\Users\KinhLup\.gradle\caches\9.4.1\transforms\bcec33f4a7229edbb1f4ea090aad9478\transformed\fragment-1.5.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.5.4] C:\Users\KinhLup\.gradle\caches\9.4.1\transforms\bcec33f4a7229edbb1f4ea090aad9478\transformed\fragment-1.5.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.8.0] C:\Users\KinhLup\.gradle\caches\9.4.1\transforms\464615777e5f0bc4ea6eeab2a860ce29\transformed\activity-1.8.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.8.0] C:\Users\KinhLup\.gradle\caches\9.4.1\transforms\464615777e5f0bc4ea6eeab2a860ce29\transformed\activity-1.8.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\KinhLup\.gradle\caches\9.4.1\transforms\759c9f507f629ee11d84aff567a68420\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\KinhLup\.gradle\caches\9.4.1\transforms\759c9f507f629ee11d84aff567a68420\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] C:\Users\KinhLup\.gradle\caches\9.4.1\transforms\72c4fa73e705b3937873e6eb1d7b6cb7\transformed\emoji2-views-helper-1.3.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] C:\Users\KinhLup\.gradle\caches\9.4.1\transforms\72c4fa73e705b3937873e6eb1d7b6cb7\transformed\emoji2-views-helper-1.3.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\KinhLup\.gradle\caches\9.4.1\transforms\80d5302ea8c6e39d8b71c71cd0ab4d6c\transformed\emoji2-1.3.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\KinhLup\.gradle\caches\9.4.1\transforms\80d5302ea8c6e39d8b71c71cd0ab4d6c\transformed\emoji2-1.3.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\KinhLup\.gradle\caches\9.4.1\transforms\6a758271b96395c799b84fb74ae795c1\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\KinhLup\.gradle\caches\9.4.1\transforms\6a758271b96395c799b84fb74ae795c1\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\KinhLup\.gradle\caches\9.4.1\transforms\9d4b4195ce60c3190942092e77857ee7\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\KinhLup\.gradle\caches\9.4.1\transforms\9d4b4195ce60c3190942092e77857ee7\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\KinhLup\.gradle\caches\9.4.1\transforms\5897c5a031f0f4043d6f4f518228ff7b\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\KinhLup\.gradle\caches\9.4.1\transforms\5897c5a031f0f4043d6f4f518228ff7b\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\KinhLup\.gradle\caches\9.4.1\transforms\7ba2e7d8e23cf23d4d45d601ca03eaad\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\KinhLup\.gradle\caches\9.4.1\transforms\7ba2e7d8e23cf23d4d45d601ca03eaad\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\KinhLup\.gradle\caches\9.4.1\transforms\1e0ae1aade8b4888526e47315cf23ee3\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\KinhLup\.gradle\caches\9.4.1\transforms\1e0ae1aade8b4888526e47315cf23ee3\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.18.0] C:\Users\KinhLup\.gradle\caches\9.4.1\transforms\32f9400ec25edf544c9e7216b74df9a6\transformed\core-1.18.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.18.0] C:\Users\KinhLup\.gradle\caches\9.4.1\transforms\32f9400ec25edf544c9e7216b74df9a6\transformed\core-1.18.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] C:\Users\KinhLup\.gradle\caches\9.4.1\transforms\12d382a9995686a4154dfb7936ef5b47\transformed\customview-poolingcontainer-1.0.0\AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] C:\Users\KinhLup\.gradle\caches\9.4.1\transforms\12d382a9995686a4154dfb7936ef5b47\transformed\customview-poolingcontainer-1.0.0\AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.9.4] C:\Users\KinhLup\.gradle\caches\9.4.1\transforms\1b047b72754ea5a4ba8df25383a6fe68\transformed\lifecycle-livedata-core-ktx-2.9.4\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.9.4] C:\Users\KinhLup\.gradle\caches\9.4.1\transforms\1b047b72754ea5a4ba8df25383a6fe68\transformed\lifecycle-livedata-core-ktx-2.9.4\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.9.4] C:\Users\KinhLup\.gradle\caches\9.4.1\transforms\ca2072b9f0b89bc8e62c8992657ed1fa\transformed\lifecycle-viewmodel-2.9.4\AndroidManifest.xml:4:5-43
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.9.4] C:\Users\KinhLup\.gradle\caches\9.4.1\transforms\ca2072b9f0b89bc8e62c8992657ed1fa\transformed\lifecycle-viewmodel-2.9.4\AndroidManifest.xml:4:5-43
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.9.4] C:\Users\KinhLup\.gradle\caches\9.4.1\transforms\8121a9fa710a1ff1c610285e40130ce2\transformed\lifecycle-viewmodel-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.9.4] C:\Users\KinhLup\.gradle\caches\9.4.1\transforms\8121a9fa710a1ff1c610285e40130ce2\transformed\lifecycle-viewmodel-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-android:1.3.1] C:\Users\KinhLup\.gradle\caches\9.4.1\transforms\593431d805f8aa9ef19041bde555acb7\transformed\savedstate-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-android:1.3.1] C:\Users\KinhLup\.gradle\caches\9.4.1\transforms\593431d805f8aa9ef19041bde555acb7\transformed\savedstate-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.9.4] C:\Users\KinhLup\.gradle\caches\9.4.1\transforms\d1b0870947ca687cc8219ca6aeb848a7\transformed\lifecycle-runtime-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.9.4] C:\Users\KinhLup\.gradle\caches\9.4.1\transforms\d1b0870947ca687cc8219ca6aeb848a7\transformed\lifecycle-runtime-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.9.4] C:\Users\KinhLup\.gradle\caches\9.4.1\transforms\0708b8f65cfa81c0fef441e9731bd0c7\transformed\lifecycle-livedata-2.9.4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.9.4] C:\Users\KinhLup\.gradle\caches\9.4.1\transforms\0708b8f65cfa81c0fef441e9731bd0c7\transformed\lifecycle-livedata-2.9.4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.9.4] C:\Users\KinhLup\.gradle\caches\9.4.1\transforms\9f077a1ec3cd02c0bfeffa51e1028ad0\transformed\lifecycle-process-2.9.4\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.9.4] C:\Users\KinhLup\.gradle\caches\9.4.1\transforms\9f077a1ec3cd02c0bfeffa51e1028ad0\transformed\lifecycle-process-2.9.4\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.9.4] C:\Users\KinhLup\.gradle\caches\9.4.1\transforms\ce54782341b6274c28c21ac48ed22edb\transformed\lifecycle-livedata-core-2.9.4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.9.4] C:\Users\KinhLup\.gradle\caches\9.4.1\transforms\ce54782341b6274c28c21ac48ed22edb\transformed\lifecycle-livedata-core-2.9.4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.9.4] C:\Users\KinhLup\.gradle\caches\9.4.1\transforms\db77564f8d88b8027e376a97c494b57a\transformed\lifecycle-runtime-ktx\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.9.4] C:\Users\KinhLup\.gradle\caches\9.4.1\transforms\db77564f8d88b8027e376a97c494b57a\transformed\lifecycle-runtime-ktx\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate-android:2.9.4] C:\Users\KinhLup\.gradle\caches\9.4.1\transforms\bf92e9befa74d6a166621200115c882c\transformed\lifecycle-viewmodel-savedstate-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate-android:2.9.4] C:\Users\KinhLup\.gradle\caches\9.4.1\transforms\bf92e9befa74d6a166621200115c882c\transformed\lifecycle-viewmodel-savedstate-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.18.0] C:\Users\KinhLup\.gradle\caches\9.4.1\transforms\c3d0df0bd6445b4c5dffae557812f061\transformed\core-ktx-1.18.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.18.0] C:\Users\KinhLup\.gradle\caches\9.4.1\transforms\c3d0df0bd6445b4c5dffae557812f061\transformed\core-ktx-1.18.0\AndroidManifest.xml:5:5-44
+MERGED from [com.squareup.leakcanary:leakcanary-android-core:2.14] C:\Users\KinhLup\.gradle\caches\9.4.1\transforms\50f730933fc0767c5730d3dbbe1aed31\transformed\leakcanary-android-core-2.14\AndroidManifest.xml:20:5-22:41
+MERGED from [com.squareup.leakcanary:leakcanary-android-core:2.14] C:\Users\KinhLup\.gradle\caches\9.4.1\transforms\50f730933fc0767c5730d3dbbe1aed31\transformed\leakcanary-android-core-2.14\AndroidManifest.xml:20:5-22:41
+MERGED from [com.squareup.leakcanary:leakcanary-object-watcher-android:2.14] C:\Users\KinhLup\.gradle\caches\9.4.1\transforms\21774679274e789f8143704fa842de9d\transformed\leakcanary-object-watcher-android-2.14\AndroidManifest.xml:5:5-44
+MERGED from [com.squareup.leakcanary:leakcanary-object-watcher-android:2.14] C:\Users\KinhLup\.gradle\caches\9.4.1\transforms\21774679274e789f8143704fa842de9d\transformed\leakcanary-object-watcher-android-2.14\AndroidManifest.xml:5:5-44
+MERGED from [com.squareup.leakcanary:plumber-android:2.14] C:\Users\KinhLup\.gradle\caches\9.4.1\transforms\38be53ebf3a98f08c6338efba2178600\transformed\plumber-android-2.14\AndroidManifest.xml:5:5-44
+MERGED from [com.squareup.leakcanary:plumber-android:2.14] C:\Users\KinhLup\.gradle\caches\9.4.1\transforms\38be53ebf3a98f08c6338efba2178600\transformed\plumber-android-2.14\AndroidManifest.xml:5:5-44
+MERGED from [com.squareup.leakcanary:leakcanary-object-watcher-android-androidx:2.14] C:\Users\KinhLup\.gradle\caches\9.4.1\transforms\c12b0cc4e6d47840647887021868e729\transformed\leakcanary-object-watcher-android-androidx-2.14\AndroidManifest.xml:5:5-44
+MERGED from [com.squareup.leakcanary:leakcanary-object-watcher-android-androidx:2.14] C:\Users\KinhLup\.gradle\caches\9.4.1\transforms\c12b0cc4e6d47840647887021868e729\transformed\leakcanary-object-watcher-android-androidx-2.14\AndroidManifest.xml:5:5-44
+MERGED from [com.squareup.leakcanary:leakcanary-object-watcher-android-support-fragments:2.14] C:\Users\KinhLup\.gradle\caches\9.4.1\transforms\657a42b49003b4cc3f84a9c3e0ac82fe\transformed\leakcanary-object-watcher-android-support-fragments-2.14\AndroidManifest.xml:5:5-44
+MERGED from [com.squareup.leakcanary:leakcanary-object-watcher-android-support-fragments:2.14] C:\Users\KinhLup\.gradle\caches\9.4.1\transforms\657a42b49003b4cc3f84a9c3e0ac82fe\transformed\leakcanary-object-watcher-android-support-fragments-2.14\AndroidManifest.xml:5:5-44
+MERGED from [com.squareup.leakcanary:leakcanary-object-watcher-android-core:2.14] C:\Users\KinhLup\.gradle\caches\9.4.1\transforms\08646af6c2e48d4843f06b99837c071f\transformed\leakcanary-object-watcher-android-core-2.14\AndroidManifest.xml:5:5-44
+MERGED from [com.squareup.leakcanary:leakcanary-object-watcher-android-core:2.14] C:\Users\KinhLup\.gradle\caches\9.4.1\transforms\08646af6c2e48d4843f06b99837c071f\transformed\leakcanary-object-watcher-android-core-2.14\AndroidManifest.xml:5:5-44
+MERGED from [com.squareup.leakcanary:plumber-android-core:2.14] C:\Users\KinhLup\.gradle\caches\9.4.1\transforms\3a680ac5fcbe95689ed2895e8796c73d\transformed\plumber-android-core-2.14\AndroidManifest.xml:5:5-44
+MERGED from [com.squareup.leakcanary:plumber-android-core:2.14] C:\Users\KinhLup\.gradle\caches\9.4.1\transforms\3a680ac5fcbe95689ed2895e8796c73d\transformed\plumber-android-core-2.14\AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] C:\Users\KinhLup\.gradle\caches\9.4.1\transforms\e745fcb8f1382ceb4b0511a59bde5f04\transformed\annotation-experimental-1.4.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] C:\Users\KinhLup\.gradle\caches\9.4.1\transforms\e745fcb8f1382ceb4b0511a59bde5f04\transformed\annotation-experimental-1.4.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-viewtree:1.0.0] C:\Users\KinhLup\.gradle\caches\9.4.1\transforms\60cb0b781b0a531b93bc464ac25fdead\transformed\core-viewtree-1.0.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-viewtree:1.0.0] C:\Users\KinhLup\.gradle\caches\9.4.1\transforms\60cb0b781b0a531b93bc464ac25fdead\transformed\core-viewtree-1.0.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\KinhLup\.gradle\caches\9.4.1\transforms\677ddbe25f912cd4acb4e0a5c6d278d6\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\KinhLup\.gradle\caches\9.4.1\transforms\677ddbe25f912cd4acb4e0a5c6d278d6\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.squareup.leakcanary:leakcanary-android-utils:2.14] C:\Users\KinhLup\.gradle\caches\9.4.1\transforms\dc3d16da837f8a168272133a8cee5526\transformed\leakcanary-android-utils-2.14\AndroidManifest.xml:5:5-44
+MERGED from [com.squareup.leakcanary:leakcanary-android-utils:2.14] C:\Users\KinhLup\.gradle\caches\9.4.1\transforms\dc3d16da837f8a168272133a8cee5526\transformed\leakcanary-android-utils-2.14\AndroidManifest.xml:5:5-44
+MERGED from [com.squareup.curtains:curtains:1.2.4] C:\Users\KinhLup\.gradle\caches\9.4.1\transforms\8cd400bf0fbf062ecd7f997f22d19f20\transformed\curtains-1.2.4\AndroidManifest.xml:5:5-7:41
+MERGED from [com.squareup.curtains:curtains:1.2.4] C:\Users\KinhLup\.gradle\caches\9.4.1\transforms\8cd400bf0fbf062ecd7f997f22d19f20\transformed\curtains-1.2.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\KinhLup\.gradle\caches\9.4.1\transforms\366ea0e306c41983ad330cf914d955f3\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\KinhLup\.gradle\caches\9.4.1\transforms\366ea0e306c41983ad330cf914d955f3\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\KinhLup\.gradle\caches\9.4.1\transforms\4f17dd4eb1e2b2eda9d8755a59e6e5ed\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\KinhLup\.gradle\caches\9.4.1\transforms\4f17dd4eb1e2b2eda9d8755a59e6e5ed\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\KinhLup\.gradle\caches\9.4.1\transforms\074cd11752f17c88b9c3ad1f2cb19dcc\transformed\profileinstaller-1.4.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\KinhLup\.gradle\caches\9.4.1\transforms\074cd11752f17c88b9c3ad1f2cb19dcc\transformed\profileinstaller-1.4.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\KinhLup\.gradle\caches\9.4.1\transforms\cdd8dcb0bbc9a2d58fb2619cd6b2fa4a\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\KinhLup\.gradle\caches\9.4.1\transforms\cdd8dcb0bbc9a2d58fb2619cd6b2fa4a\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.2.0] C:\Users\KinhLup\.gradle\caches\9.4.1\transforms\4ec46576f54a8caa25300c87776a3608\transformed\tracing-1.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.tracing:tracing:1.2.0] C:\Users\KinhLup\.gradle\caches\9.4.1\transforms\4ec46576f54a8caa25300c87776a3608\transformed\tracing-1.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\KinhLup\.gradle\caches\9.4.1\transforms\028a020048db2fd2a4a4aeeb27d8223e\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\KinhLup\.gradle\caches\9.4.1\transforms\028a020048db2fd2a4a4aeeb27d8223e\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+	android:targetSdkVersion
+		INJECTED from D:\Ky 2 nam 4\test\MemGallery\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Ky 2 nam 4\test\MemGallery\app\src\main\AndroidManifest.xml
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\KinhLup\.gradle\caches\9.4.1\transforms\80d5302ea8c6e39d8b71c71cd0ab4d6c\transformed\emoji2-1.3.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.9.4] C:\Users\KinhLup\.gradle\caches\9.4.1\transforms\9f077a1ec3cd02c0bfeffa51e1028ad0\transformed\lifecycle-process-2.9.4\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.9.4] C:\Users\KinhLup\.gradle\caches\9.4.1\transforms\9f077a1ec3cd02c0bfeffa51e1028ad0\transformed\lifecycle-process-2.9.4\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\KinhLup\.gradle\caches\9.4.1\transforms\074cd11752f17c88b9c3ad1f2cb19dcc\transformed\profileinstaller-1.4.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\KinhLup\.gradle\caches\9.4.1\transforms\074cd11752f17c88b9c3ad1f2cb19dcc\transformed\profileinstaller-1.4.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\KinhLup\.gradle\caches\9.4.1\transforms\cdd8dcb0bbc9a2d58fb2619cd6b2fa4a\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\KinhLup\.gradle\caches\9.4.1\transforms\cdd8dcb0bbc9a2d58fb2619cd6b2fa4a\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\KinhLup\.gradle\caches\9.4.1\transforms\80d5302ea8c6e39d8b71c71cd0ab4d6c\transformed\emoji2-1.3.0\AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\KinhLup\.gradle\caches\9.4.1\transforms\80d5302ea8c6e39d8b71c71cd0ab4d6c\transformed\emoji2-1.3.0\AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\KinhLup\.gradle\caches\9.4.1\transforms\80d5302ea8c6e39d8b71c71cd0ab4d6c\transformed\emoji2-1.3.0\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\KinhLup\.gradle\caches\9.4.1\transforms\80d5302ea8c6e39d8b71c71cd0ab4d6c\transformed\emoji2-1.3.0\AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\KinhLup\.gradle\caches\9.4.1\transforms\80d5302ea8c6e39d8b71c71cd0ab4d6c\transformed\emoji2-1.3.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\KinhLup\.gradle\caches\9.4.1\transforms\80d5302ea8c6e39d8b71c71cd0ab4d6c\transformed\emoji2-1.3.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\KinhLup\.gradle\caches\9.4.1\transforms\80d5302ea8c6e39d8b71c71cd0ab4d6c\transformed\emoji2-1.3.0\AndroidManifest.xml:30:17-75
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.18.0] C:\Users\KinhLup\.gradle\caches\9.4.1\transforms\32f9400ec25edf544c9e7216b74df9a6\transformed\core-1.18.0\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.18.0] C:\Users\KinhLup\.gradle\caches\9.4.1\transforms\32f9400ec25edf544c9e7216b74df9a6\transformed\core-1.18.0\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.18.0] C:\Users\KinhLup\.gradle\caches\9.4.1\transforms\32f9400ec25edf544c9e7216b74df9a6\transformed\core-1.18.0\AndroidManifest.xml:23:9-81
+permission#com.example.memgallery.unopt.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.18.0] C:\Users\KinhLup\.gradle\caches\9.4.1\transforms\32f9400ec25edf544c9e7216b74df9a6\transformed\core-1.18.0\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.18.0] C:\Users\KinhLup\.gradle\caches\9.4.1\transforms\32f9400ec25edf544c9e7216b74df9a6\transformed\core-1.18.0\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.18.0] C:\Users\KinhLup\.gradle\caches\9.4.1\transforms\32f9400ec25edf544c9e7216b74df9a6\transformed\core-1.18.0\AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.18.0] C:\Users\KinhLup\.gradle\caches\9.4.1\transforms\32f9400ec25edf544c9e7216b74df9a6\transformed\core-1.18.0\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.18.0] C:\Users\KinhLup\.gradle\caches\9.4.1\transforms\32f9400ec25edf544c9e7216b74df9a6\transformed\core-1.18.0\AndroidManifest.xml:26:22-94
+uses-permission#com.example.memgallery.unopt.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.18.0] C:\Users\KinhLup\.gradle\caches\9.4.1\transforms\32f9400ec25edf544c9e7216b74df9a6\transformed\core-1.18.0\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.18.0] C:\Users\KinhLup\.gradle\caches\9.4.1\transforms\32f9400ec25edf544c9e7216b74df9a6\transformed\core-1.18.0\AndroidManifest.xml:26:22-94
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.9.4] C:\Users\KinhLup\.gradle\caches\9.4.1\transforms\9f077a1ec3cd02c0bfeffa51e1028ad0\transformed\lifecycle-process-2.9.4\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.9.4] C:\Users\KinhLup\.gradle\caches\9.4.1\transforms\9f077a1ec3cd02c0bfeffa51e1028ad0\transformed\lifecycle-process-2.9.4\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.9.4] C:\Users\KinhLup\.gradle\caches\9.4.1\transforms\9f077a1ec3cd02c0bfeffa51e1028ad0\transformed\lifecycle-process-2.9.4\AndroidManifest.xml:30:17-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.14] C:\Users\KinhLup\.gradle\caches\9.4.1\transforms\50f730933fc0767c5730d3dbbe1aed31\transformed\leakcanary-android-core-2.14\AndroidManifest.xml:25:5-80
+	android:name
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.14] C:\Users\KinhLup\.gradle\caches\9.4.1\transforms\50f730933fc0767c5730d3dbbe1aed31\transformed\leakcanary-android-core-2.14\AndroidManifest.xml:25:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.14] C:\Users\KinhLup\.gradle\caches\9.4.1\transforms\50f730933fc0767c5730d3dbbe1aed31\transformed\leakcanary-android-core-2.14\AndroidManifest.xml:26:5-81
+	android:name
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.14] C:\Users\KinhLup\.gradle\caches\9.4.1\transforms\50f730933fc0767c5730d3dbbe1aed31\transformed\leakcanary-android-core-2.14\AndroidManifest.xml:26:22-78
+uses-permission#android.permission.POST_NOTIFICATIONS
+ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.14] C:\Users\KinhLup\.gradle\caches\9.4.1\transforms\50f730933fc0767c5730d3dbbe1aed31\transformed\leakcanary-android-core-2.14\AndroidManifest.xml:29:5-77
+	android:name
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.14] C:\Users\KinhLup\.gradle\caches\9.4.1\transforms\50f730933fc0767c5730d3dbbe1aed31\transformed\leakcanary-android-core-2.14\AndroidManifest.xml:29:22-74
+provider#leakcanary.internal.LeakCanaryFileProvider
+ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.14] C:\Users\KinhLup\.gradle\caches\9.4.1\transforms\50f730933fc0767c5730d3dbbe1aed31\transformed\leakcanary-android-core-2.14\AndroidManifest.xml:32:9-40:20
+	android:grantUriPermissions
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.14] C:\Users\KinhLup\.gradle\caches\9.4.1\transforms\50f730933fc0767c5730d3dbbe1aed31\transformed\leakcanary-android-core-2.14\AndroidManifest.xml:36:13-47
+	android:authorities
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.14] C:\Users\KinhLup\.gradle\caches\9.4.1\transforms\50f730933fc0767c5730d3dbbe1aed31\transformed\leakcanary-android-core-2.14\AndroidManifest.xml:34:13-88
+	android:exported
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.14] C:\Users\KinhLup\.gradle\caches\9.4.1\transforms\50f730933fc0767c5730d3dbbe1aed31\transformed\leakcanary-android-core-2.14\AndroidManifest.xml:35:13-37
+	android:name
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.14] C:\Users\KinhLup\.gradle\caches\9.4.1\transforms\50f730933fc0767c5730d3dbbe1aed31\transformed\leakcanary-android-core-2.14\AndroidManifest.xml:33:13-70
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.14] C:\Users\KinhLup\.gradle\caches\9.4.1\transforms\50f730933fc0767c5730d3dbbe1aed31\transformed\leakcanary-android-core-2.14\AndroidManifest.xml:37:13-39:66
+	android:resource
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.14] C:\Users\KinhLup\.gradle\caches\9.4.1\transforms\50f730933fc0767c5730d3dbbe1aed31\transformed\leakcanary-android-core-2.14\AndroidManifest.xml:39:17-63
+	android:name
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.14] C:\Users\KinhLup\.gradle\caches\9.4.1\transforms\50f730933fc0767c5730d3dbbe1aed31\transformed\leakcanary-android-core-2.14\AndroidManifest.xml:38:17-67
+activity#leakcanary.internal.activity.LeakActivity
+ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.14] C:\Users\KinhLup\.gradle\caches\9.4.1\transforms\50f730933fc0767c5730d3dbbe1aed31\transformed\leakcanary-android-core-2.14\AndroidManifest.xml:42:9-73:20
+	android:label
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.14] C:\Users\KinhLup\.gradle\caches\9.4.1\transforms\50f730933fc0767c5730d3dbbe1aed31\transformed\leakcanary-android-core-2.14\AndroidManifest.xml:46:13-71
+	android:exported
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.14] C:\Users\KinhLup\.gradle\caches\9.4.1\transforms\50f730933fc0767c5730d3dbbe1aed31\transformed\leakcanary-android-core-2.14\AndroidManifest.xml:44:13-36
+	android:icon
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.14] C:\Users\KinhLup\.gradle\caches\9.4.1\transforms\50f730933fc0767c5730d3dbbe1aed31\transformed\leakcanary-android-core-2.14\AndroidManifest.xml:45:13-52
+	android:theme
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.14] C:\Users\KinhLup\.gradle\caches\9.4.1\transforms\50f730933fc0767c5730d3dbbe1aed31\transformed\leakcanary-android-core-2.14\AndroidManifest.xml:48:13-63
+	android:taskAffinity
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.14] C:\Users\KinhLup\.gradle\caches\9.4.1\transforms\50f730933fc0767c5730d3dbbe1aed31\transformed\leakcanary-android-core-2.14\AndroidManifest.xml:47:13-76
+	android:name
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.14] C:\Users\KinhLup\.gradle\caches\9.4.1\transforms\50f730933fc0767c5730d3dbbe1aed31\transformed\leakcanary-android-core-2.14\AndroidManifest.xml:43:13-69
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:*+data:mimeType:*/*+data:pathPattern:.*\\..*\\..*\\..*\\..*\\..*\\..*\\.hprof+data:pathPattern:.*\\..*\\..*\\..*\\..*\\..*\\.hprof+data:pathPattern:.*\\..*\\..*\\..*\\..*\\.hprof+data:pathPattern:.*\\..*\\..*\\..*\\.hprof+data:pathPattern:.*\\..*\\..*\\.hprof+data:pathPattern:.*\\..*\\.hprof+data:pathPattern:.*\\.hprof+data:scheme:content+data:scheme:file
+ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.14] C:\Users\KinhLup\.gradle\caches\9.4.1\transforms\50f730933fc0767c5730d3dbbe1aed31\transformed\leakcanary-android-core-2.14\AndroidManifest.xml:49:13-72:29
+	android:label
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.14] C:\Users\KinhLup\.gradle\caches\9.4.1\transforms\50f730933fc0767c5730d3dbbe1aed31\transformed\leakcanary-android-core-2.14\AndroidManifest.xml:49:28-81
+action#android.intent.action.VIEW
+ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.14] C:\Users\KinhLup\.gradle\caches\9.4.1\transforms\50f730933fc0767c5730d3dbbe1aed31\transformed\leakcanary-android-core-2.14\AndroidManifest.xml:50:17-69
+	android:name
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.14] C:\Users\KinhLup\.gradle\caches\9.4.1\transforms\50f730933fc0767c5730d3dbbe1aed31\transformed\leakcanary-android-core-2.14\AndroidManifest.xml:50:25-66
+category#android.intent.category.DEFAULT
+ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.14] C:\Users\KinhLup\.gradle\caches\9.4.1\transforms\50f730933fc0767c5730d3dbbe1aed31\transformed\leakcanary-android-core-2.14\AndroidManifest.xml:52:17-76
+	android:name
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.14] C:\Users\KinhLup\.gradle\caches\9.4.1\transforms\50f730933fc0767c5730d3dbbe1aed31\transformed\leakcanary-android-core-2.14\AndroidManifest.xml:52:27-73
+category#android.intent.category.BROWSABLE
+ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.14] C:\Users\KinhLup\.gradle\caches\9.4.1\transforms\50f730933fc0767c5730d3dbbe1aed31\transformed\leakcanary-android-core-2.14\AndroidManifest.xml:53:17-78
+	android:name
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.14] C:\Users\KinhLup\.gradle\caches\9.4.1\transforms\50f730933fc0767c5730d3dbbe1aed31\transformed\leakcanary-android-core-2.14\AndroidManifest.xml:53:27-75
+data
+ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.14] C:\Users\KinhLup\.gradle\caches\9.4.1\transforms\50f730933fc0767c5730d3dbbe1aed31\transformed\leakcanary-android-core-2.14\AndroidManifest.xml:55:17-47
+	android:scheme
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.14] C:\Users\KinhLup\.gradle\caches\9.4.1\transforms\50f730933fc0767c5730d3dbbe1aed31\transformed\leakcanary-android-core-2.14\AndroidManifest.xml:55:23-44
+activity-alias#leakcanary.internal.activity.LeakLauncherActivity
+ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.14] C:\Users\KinhLup\.gradle\caches\9.4.1\transforms\50f730933fc0767c5730d3dbbe1aed31\transformed\leakcanary-android-core-2.14\AndroidManifest.xml:75:9-92:26
+	android:enabled
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.14] C:\Users\KinhLup\.gradle\caches\9.4.1\transforms\50f730933fc0767c5730d3dbbe1aed31\transformed\leakcanary-android-core-2.14\AndroidManifest.xml:78:13-66
+	android:label
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.14] C:\Users\KinhLup\.gradle\caches\9.4.1\transforms\50f730933fc0767c5730d3dbbe1aed31\transformed\leakcanary-android-core-2.14\AndroidManifest.xml:81:13-71
+	android:exported
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.14] C:\Users\KinhLup\.gradle\caches\9.4.1\transforms\50f730933fc0767c5730d3dbbe1aed31\transformed\leakcanary-android-core-2.14\AndroidManifest.xml:79:13-36
+	android:targetActivity
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.14] C:\Users\KinhLup\.gradle\caches\9.4.1\transforms\50f730933fc0767c5730d3dbbe1aed31\transformed\leakcanary-android-core-2.14\AndroidManifest.xml:82:13-79
+	android:icon
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.14] C:\Users\KinhLup\.gradle\caches\9.4.1\transforms\50f730933fc0767c5730d3dbbe1aed31\transformed\leakcanary-android-core-2.14\AndroidManifest.xml:80:13-52
+	android:banner
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.14] C:\Users\KinhLup\.gradle\caches\9.4.1\transforms\50f730933fc0767c5730d3dbbe1aed31\transformed\leakcanary-android-core-2.14\AndroidManifest.xml:77:13-59
+	android:theme
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.14] C:\Users\KinhLup\.gradle\caches\9.4.1\transforms\50f730933fc0767c5730d3dbbe1aed31\transformed\leakcanary-android-core-2.14\AndroidManifest.xml:84:13-63
+	android:taskAffinity
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.14] C:\Users\KinhLup\.gradle\caches\9.4.1\transforms\50f730933fc0767c5730d3dbbe1aed31\transformed\leakcanary-android-core-2.14\AndroidManifest.xml:83:13-76
+	android:name
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.14] C:\Users\KinhLup\.gradle\caches\9.4.1\transforms\50f730933fc0767c5730d3dbbe1aed31\transformed\leakcanary-android-core-2.14\AndroidManifest.xml:76:13-77
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER+category:name:android.intent.category.LEANBACK_LAUNCHER
+ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.14] C:\Users\KinhLup\.gradle\caches\9.4.1\transforms\50f730933fc0767c5730d3dbbe1aed31\transformed\leakcanary-android-core-2.14\AndroidManifest.xml:85:13-91:29
+category#android.intent.category.LEANBACK_LAUNCHER
+ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.14] C:\Users\KinhLup\.gradle\caches\9.4.1\transforms\50f730933fc0767c5730d3dbbe1aed31\transformed\leakcanary-android-core-2.14\AndroidManifest.xml:90:17-86
+	android:name
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.14] C:\Users\KinhLup\.gradle\caches\9.4.1\transforms\50f730933fc0767c5730d3dbbe1aed31\transformed\leakcanary-android-core-2.14\AndroidManifest.xml:90:27-83
+activity#leakcanary.internal.RequestPermissionActivity
+ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.14] C:\Users\KinhLup\.gradle\caches\9.4.1\transforms\50f730933fc0767c5730d3dbbe1aed31\transformed\leakcanary-android-core-2.14\AndroidManifest.xml:94:9-100:68
+	android:label
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.14] C:\Users\KinhLup\.gradle\caches\9.4.1\transforms\50f730933fc0767c5730d3dbbe1aed31\transformed\leakcanary-android-core-2.14\AndroidManifest.xml:98:13-82
+	android:excludeFromRecents
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.14] C:\Users\KinhLup\.gradle\caches\9.4.1\transforms\50f730933fc0767c5730d3dbbe1aed31\transformed\leakcanary-android-core-2.14\AndroidManifest.xml:96:13-46
+	android:icon
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.14] C:\Users\KinhLup\.gradle\caches\9.4.1\transforms\50f730933fc0767c5730d3dbbe1aed31\transformed\leakcanary-android-core-2.14\AndroidManifest.xml:97:13-52
+	android:theme
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.14] C:\Users\KinhLup\.gradle\caches\9.4.1\transforms\50f730933fc0767c5730d3dbbe1aed31\transformed\leakcanary-android-core-2.14\AndroidManifest.xml:100:13-65
+	android:taskAffinity
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.14] C:\Users\KinhLup\.gradle\caches\9.4.1\transforms\50f730933fc0767c5730d3dbbe1aed31\transformed\leakcanary-android-core-2.14\AndroidManifest.xml:99:13-76
+	android:name
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.14] C:\Users\KinhLup\.gradle\caches\9.4.1\transforms\50f730933fc0767c5730d3dbbe1aed31\transformed\leakcanary-android-core-2.14\AndroidManifest.xml:95:13-73
+receiver#leakcanary.internal.NotificationReceiver
+ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.14] C:\Users\KinhLup\.gradle\caches\9.4.1\transforms\50f730933fc0767c5730d3dbbe1aed31\transformed\leakcanary-android-core-2.14\AndroidManifest.xml:102:9-77
+	android:name
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.14] C:\Users\KinhLup\.gradle\caches\9.4.1\transforms\50f730933fc0767c5730d3dbbe1aed31\transformed\leakcanary-android-core-2.14\AndroidManifest.xml:102:19-74
+provider#leakcanary.internal.MainProcessAppWatcherInstaller
+ADDED from [com.squareup.leakcanary:leakcanary-object-watcher-android:2.14] C:\Users\KinhLup\.gradle\caches\9.4.1\transforms\21774679274e789f8143704fa842de9d\transformed\leakcanary-object-watcher-android-2.14\AndroidManifest.xml:8:9-12:40
+	android:enabled
+		ADDED from [com.squareup.leakcanary:leakcanary-object-watcher-android:2.14] C:\Users\KinhLup\.gradle\caches\9.4.1\transforms\21774679274e789f8143704fa842de9d\transformed\leakcanary-object-watcher-android-2.14\AndroidManifest.xml:11:13-69
+	android:authorities
+		ADDED from [com.squareup.leakcanary:leakcanary-object-watcher-android:2.14] C:\Users\KinhLup\.gradle\caches\9.4.1\transforms\21774679274e789f8143704fa842de9d\transformed\leakcanary-object-watcher-android-2.14\AndroidManifest.xml:10:13-72
+	android:exported
+		ADDED from [com.squareup.leakcanary:leakcanary-object-watcher-android:2.14] C:\Users\KinhLup\.gradle\caches\9.4.1\transforms\21774679274e789f8143704fa842de9d\transformed\leakcanary-object-watcher-android-2.14\AndroidManifest.xml:12:13-37
+	android:name
+		ADDED from [com.squareup.leakcanary:leakcanary-object-watcher-android:2.14] C:\Users\KinhLup\.gradle\caches\9.4.1\transforms\21774679274e789f8143704fa842de9d\transformed\leakcanary-object-watcher-android-2.14\AndroidManifest.xml:9:13-78
+provider#leakcanary.internal.PlumberInstaller
+ADDED from [com.squareup.leakcanary:plumber-android:2.14] C:\Users\KinhLup\.gradle\caches\9.4.1\transforms\38be53ebf3a98f08c6338efba2178600\transformed\plumber-android-2.14\AndroidManifest.xml:8:9-12:40
+	android:enabled
+		ADDED from [com.squareup.leakcanary:plumber-android:2.14] C:\Users\KinhLup\.gradle\caches\9.4.1\transforms\38be53ebf3a98f08c6338efba2178600\transformed\plumber-android-2.14\AndroidManifest.xml:11:13-69
+	android:authorities
+		ADDED from [com.squareup.leakcanary:plumber-android:2.14] C:\Users\KinhLup\.gradle\caches\9.4.1\transforms\38be53ebf3a98f08c6338efba2178600\transformed\plumber-android-2.14\AndroidManifest.xml:10:13-69
+	android:exported
+		ADDED from [com.squareup.leakcanary:plumber-android:2.14] C:\Users\KinhLup\.gradle\caches\9.4.1\transforms\38be53ebf3a98f08c6338efba2178600\transformed\plumber-android-2.14\AndroidManifest.xml:12:13-37
+	android:name
+		ADDED from [com.squareup.leakcanary:plumber-android:2.14] C:\Users\KinhLup\.gradle\caches\9.4.1\transforms\38be53ebf3a98f08c6338efba2178600\transformed\plumber-android-2.14\AndroidManifest.xml:9:13-64
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\KinhLup\.gradle\caches\9.4.1\transforms\074cd11752f17c88b9c3ad1f2cb19dcc\transformed\profileinstaller-1.4.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\KinhLup\.gradle\caches\9.4.1\transforms\074cd11752f17c88b9c3ad1f2cb19dcc\transformed\profileinstaller-1.4.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\KinhLup\.gradle\caches\9.4.1\transforms\074cd11752f17c88b9c3ad1f2cb19dcc\transformed\profileinstaller-1.4.0\AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\KinhLup\.gradle\caches\9.4.1\transforms\074cd11752f17c88b9c3ad1f2cb19dcc\transformed\profileinstaller-1.4.0\AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\KinhLup\.gradle\caches\9.4.1\transforms\074cd11752f17c88b9c3ad1f2cb19dcc\transformed\profileinstaller-1.4.0\AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\KinhLup\.gradle\caches\9.4.1\transforms\074cd11752f17c88b9c3ad1f2cb19dcc\transformed\profileinstaller-1.4.0\AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\KinhLup\.gradle\caches\9.4.1\transforms\074cd11752f17c88b9c3ad1f2cb19dcc\transformed\profileinstaller-1.4.0\AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\KinhLup\.gradle\caches\9.4.1\transforms\074cd11752f17c88b9c3ad1f2cb19dcc\transformed\profileinstaller-1.4.0\AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\KinhLup\.gradle\caches\9.4.1\transforms\074cd11752f17c88b9c3ad1f2cb19dcc\transformed\profileinstaller-1.4.0\AndroidManifest.xml:35:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\KinhLup\.gradle\caches\9.4.1\transforms\074cd11752f17c88b9c3ad1f2cb19dcc\transformed\profileinstaller-1.4.0\AndroidManifest.xml:40:13-42:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\KinhLup\.gradle\caches\9.4.1\transforms\074cd11752f17c88b9c3ad1f2cb19dcc\transformed\profileinstaller-1.4.0\AndroidManifest.xml:41:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\KinhLup\.gradle\caches\9.4.1\transforms\074cd11752f17c88b9c3ad1f2cb19dcc\transformed\profileinstaller-1.4.0\AndroidManifest.xml:41:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\KinhLup\.gradle\caches\9.4.1\transforms\074cd11752f17c88b9c3ad1f2cb19dcc\transformed\profileinstaller-1.4.0\AndroidManifest.xml:43:13-45:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\KinhLup\.gradle\caches\9.4.1\transforms\074cd11752f17c88b9c3ad1f2cb19dcc\transformed\profileinstaller-1.4.0\AndroidManifest.xml:44:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\KinhLup\.gradle\caches\9.4.1\transforms\074cd11752f17c88b9c3ad1f2cb19dcc\transformed\profileinstaller-1.4.0\AndroidManifest.xml:44:25-82
+intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\KinhLup\.gradle\caches\9.4.1\transforms\074cd11752f17c88b9c3ad1f2cb19dcc\transformed\profileinstaller-1.4.0\AndroidManifest.xml:46:13-48:29
+action#androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\KinhLup\.gradle\caches\9.4.1\transforms\074cd11752f17c88b9c3ad1f2cb19dcc\transformed\profileinstaller-1.4.0\AndroidManifest.xml:47:17-88
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\KinhLup\.gradle\caches\9.4.1\transforms\074cd11752f17c88b9c3ad1f2cb19dcc\transformed\profileinstaller-1.4.0\AndroidManifest.xml:47:25-85
+intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\KinhLup\.gradle\caches\9.4.1\transforms\074cd11752f17c88b9c3ad1f2cb19dcc\transformed\profileinstaller-1.4.0\AndroidManifest.xml:49:13-51:29
+action#androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\KinhLup\.gradle\caches\9.4.1\transforms\074cd11752f17c88b9c3ad1f2cb19dcc\transformed\profileinstaller-1.4.0\AndroidManifest.xml:50:17-95
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\KinhLup\.gradle\caches\9.4.1\transforms\074cd11752f17c88b9c3ad1f2cb19dcc\transformed\profileinstaller-1.4.0\AndroidManifest.xml:50:25-92
